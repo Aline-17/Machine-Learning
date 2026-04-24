@@ -1,3 +1,3 @@
 # Machine Learning
 
-Projeto do Checkpoint 2 utilizando KNN e dataset Iris.
+Projeto do Checkpoint 1 utilizando KNN e dataset Iris.
